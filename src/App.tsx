@@ -1,7 +1,7 @@
 import Header from "./components/shared/Header";
 import { Hero } from './components/Hero';
-import { Services } from "./components/shared/Services";
-import { Contact } from "./components/shared/Contact";
+import { Services } from "./components/Services";
+import { Contact } from "./components/Contact";
 import Footer from "./components/shared/Footer";
 
 

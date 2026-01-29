@@ -1,5 +1,5 @@
 import { MapPin, Clock, Phone } from "lucide-react";
-import { Button } from "./Button";
+import { Button } from "./shared/Button";
 
 export const Contact = () => {
   return (

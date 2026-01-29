@@ -6,8 +6,8 @@ import {
   Palette,
   Footprints,
 } from "lucide-react";
-import { ServiceCard } from "./serviceCard";
-import { Button } from "./Button";
+import { ServiceCard } from "./ServiceCard";
+import { Button } from "./shared/Button";
 
 export const Services = () => {
   const services = [
