@@ -60,7 +60,7 @@ export default function Hours() {
     <section id="hours" className="py-16 bg-[#0A0A0A]">
       <div className="text-center mb-6">
         <h2 className="text-white">Horários disponíveis</h2>
-        <div className="mx-auto mt-1 h-0.5 w-42 bg-gradient-to-r from-transparent via-yellow-primary to-transparent"></div>
+        <div className="mx-auto mt-1 h-0.5 w-42 bg-linear-to-r from-transparent via-yellow-primary to-transparent"></div>
       </div>
 
       <div className="max-w-360 mx-auto px-4 grid gap-6">

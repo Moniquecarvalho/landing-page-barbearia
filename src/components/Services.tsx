@@ -55,7 +55,7 @@ export const Services = () => {
       <div className="max-w-360 mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-white mb-1">Serviços</h2>
-          <div className="mx-auto mt-1 h-0.5 w-20 bg-gradient-to-r from-transparent via-yellow-primary to-transparent"></div>
+          <div className="mx-auto mt-1 h-0.5 w-20 bg-linear-to-r from-transparent via-yellow-primary to-transparent"></div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 ">
