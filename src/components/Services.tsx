@@ -54,11 +54,11 @@ export const Services = () => {
     <section className="py-16 lg:py-24 bg-[#0A0A0A]" id="services">
       <div className="max-w-360 mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-white mb-4">Serviços</h2>
-          <div></div>
+          <h2 className="text-white mb-1">Serviços</h2>
+          <div className="mx-auto mt-1 h-0.5 w-20 bg-gradient-to-r from-transparent via-yellow-primary to-transparent"></div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 ">
           {services.map((service, index) => (
             <ServiceCard
               key={index}
