@@ -51,7 +51,7 @@ export const Services = () => {
     },
   ];
   return (
-    <section className="py-16 lg:py-24 bg-[#0A0A0A]">
+    <section className="py-16 lg:py-24 bg-[#0A0A0A]" id="services">
       <div className="max-w-360 mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-white mb-4">Serviços</h2>
