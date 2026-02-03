@@ -53,7 +53,7 @@ const Header = () => {
               <Button
                 variant="primary"
                 onClick={() => {
-                  window.open("https://wa.me/5511999999999", "_blank");
+                  scrollToSection("hours");
                 }}
               >
                 Agendar
@@ -116,7 +116,7 @@ const Header = () => {
               variant="primary"
               className="w-full"
               onClick={() => {
-                window.open("https://wa.me/5511999999999", "_blank");
+               scrollToSection("hours");
               }}
             >
               Agendar
